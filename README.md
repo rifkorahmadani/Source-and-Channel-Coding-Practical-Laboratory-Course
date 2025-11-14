@@ -1,0 +1,1 @@
+This repository contains laboratory modules for Source and Channel Coding, covering Run-Length Encoding (RLE), Move-to-Front (MTF), Elias Gamma/Delta, Golomb Coding, and Tunstall Coding, along with basic text-processing tasks implemented in Python.
